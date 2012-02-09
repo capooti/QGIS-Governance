@@ -3,15 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to QGIS Governance's documentation!
-===========================================
+The QGIS Sponsorship Programme
+==============================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-  
+   sponsorship
+   sponsor-list
+   gold-sponsors
 
 Indices and tables
 ==================

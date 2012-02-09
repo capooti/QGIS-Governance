@@ -1,5 +1,5 @@
-QGIS Sponsor Guide
-==================
+Sponsorship Programme Overview
+==============================
 
 QGIS is an entirely Open Source project. QGIS development is carried out
 largely by a group of volunteers, that in time have built up a large, valuable
@@ -44,14 +44,14 @@ US$. Sponsorships last one year, after which they may be continued with a new
 payment, or allowed to lapse. At or above the following levels a sponsor will
 be designated as being one of the following class:
 
-======= ========== =================
-Euros   US Dollars Sponsorship Level
-======= ========== =================
-27,000+ €/39,000 US$: Platinum Sponsor
-9,000+ €/13,000 US$: Gold Sponsor
-3,000+ €/4,300 US$: Silver Sponsor
-500+ €/700 US$: Bronze Sponsor
-======= ========== =================
+======== ========== =================
+euros    us dollars sponsorship level
+======== ========== =================
+27,000+  39,000     Platinum Sponsor
+9,000+   13,000     Gold Sponsor
+3,000+   4,300      Silver Sponsor
+500+     700        Bronze Sponsor
+======== ========== =================
 
 Donation
 ........
@@ -118,7 +118,6 @@ following project activities:
     of QGIS development, we encourage you to allocate additional human resources to
     the project, e.g. hiring a developer, or participating to our bug fixing
     initiative.
-
 
 Organizations or individuals interested in sponsoring the QGIS project should
 contact the QGIS PSC Finance and Marketing advisor, Paolo Cavallini at:
