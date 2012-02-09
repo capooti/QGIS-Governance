@@ -11,7 +11,7 @@ Special sponsors
    :class: center 
 
    * - Logo
-     - Notes 
+     - Notes
    * -  .. image:: ./abac_logo.png
            :width: 6 cm
            :alt: GFOSS.it
@@ -23,26 +23,39 @@ Special sponsors
         about the work they do (site mainly in Italian).
 
 
-
 2012 Sponsors
 .............
 
 .. tabularcolumns:: |C|L| 
-.. list-table:: Sponsors
+.. list-table::
    :header-rows: 1 
-   :widths: 10, 20 
+   :widths: 10, 6, 20 
    :class: center 
 
    * - Logo
+     - Type
      - Notes
-   * -  .. image::  
-           :width: 2 cm
-           :alt:  
-     -   
-   * -  .. image:: 
-           :width: 2 cm
-           :alt: 
-     -  
+   * -  .. image:: ./logo_sogis.gif 
+           :width: 6 cm
+           :alt: Kanton Solothurn
+     - **Silver**
+     - Kanton Solothurn, Switzerland (4.2011) http://www.agi.so.ch/
+   * -  .. image:: ./vorarlberg.jpg
+           :width: 6 cm
+           :alt: Vorarlberg
+     - **Silver**
+     - State of Vorarlberg , Austria (11.2011) http://www.vorarlberg.at/
+   * -  .. image:: ./uster.gif
+           :width: 6 cm
+           :alt: Uster
+     - **Bronze**
+     - City of Uster , Switzerland (11.2011) http://gis.uster.ch/
+   * -  .. image:: ./Municipia-EM-SA-letring-Cinzento.jpg
+           :width: 6 cm
+           :alt: Municipia
+     - **Bronze**
+     - Municípia, SA , Portugal (2.2011) http://www.municipia.pt/
+
 
 
 2011 Sponsors
