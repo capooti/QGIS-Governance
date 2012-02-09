@@ -1,0 +1,1 @@
+Search.setIndex({objects:{},terms:{index:0,search:0,document:0,welcom:0,qgi:[0,1],indic:0,content:0,sponsor:[0,1],thi:1,tabl:0,govern:0,guid:[0,1],page:0},objtypes:{},titles:["Welcome to QGIS Governance&#8217;s documentation!","QGIS Sponsor Guide"],objnames:{},filenames:["index","sponsoring"]})
