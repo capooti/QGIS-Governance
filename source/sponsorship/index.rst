@@ -15,9 +15,3 @@ Contents:
    sponsor-list
    gold-sponsors
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
-
