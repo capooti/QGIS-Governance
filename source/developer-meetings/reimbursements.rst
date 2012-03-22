@@ -4,8 +4,8 @@ Reimbursements for Developer Meetings
 The |QGIS| project holds twice-yearly developer meetings, typically somewhere
 in Europe. The purpose of the meetings is to provide face-to-face time for
 developers. It is a forum for presenting new ideas, planning, putting heads
-together to solve problems and so on. We use funding from our :ref:`sponsoring`
-programme to facilitate the event, with co-funding from the host who usually
+together to solve problems and so on. We use funding from our :doc:`../sponsorship/index`
+to facilitate the event, with co-funding from the host who usually
 supplies the venue and the infrastructure for hosting the meeting. Individual
 developers also co-fund the event by donating their time and in many cases
 financially supporting their visit to the meeting directly.
@@ -46,6 +46,7 @@ Policy for disbursement of funds to individual developers.
   disbursements were made and to whom and these should be available on request
   to the PSC.
 
+
 Procedure for funding applications - core developers.
 -----------------------------------------------------
 
@@ -57,6 +58,7 @@ Procedure for funding applications - core developers.
 * The requestor should provide copies of reciepts for all expenditures as soon
   as possible after the event. No refunds should be made without accompanying
   receipts.
+
 
 Procedure for funding applications - new developers.
 ----------------------------------------------------

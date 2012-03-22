@@ -18,6 +18,11 @@ import sys, os
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #sys.path.insert(0, os.path.abspath('.'))
 
+# see http://sphinx.pocoo.org/config.html#confval-rst_epilog
+rst_epilog = """
+.. |QGIS| replace:: Quantum GIS
+"""
+
 # -- General configuration -----------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.
