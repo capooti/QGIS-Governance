@@ -1,6 +1,9 @@
 Quantum GIS Governance
 ======================
 
+`View Online (html) <http://readthedocs.org/docs/qgis-governance/en/latest/>`_ or `download the pdf <http://media.readthedocs.org/pdf/qgis-governance/latest/qgis-governance.pdf>`_
+
+
 This repository stores official QGIS governance, bylaws, procedures etc.
 
 http://qgis.org
