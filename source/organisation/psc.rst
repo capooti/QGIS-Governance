@@ -54,6 +54,38 @@ All members have equal standing and voice in the PSC. To be eligible for
 membership in the PSC, a person should have a demonstrated and substantial
 involvement in QGIS.
 
+Election process for PSC members
+--------------------------------
+
+Anyone is eligible to be nominated to the QGIS PSC. Ideally nominees would be
+QGIS users or developers and have an understanding of GIS and the goals of the
+QGIS project. In addition, nominees should meet the qualifications set forth in
+this document. Anyone can submit a nomination.
+
+To nominate someone:
+
+* Nominator checks with the nominee to make sure they are willing to serve on
+  the PSC and commit to the goals and duties described in this document
+* Nominator submits the nomination via email to the PSC mailing list. 
+* The subject line of your email must be **Nomination for QGIS PSC**
+* Nominations without the correct subject line will be rejected 
+* Nominations without complete information will be rejected 
+
+
+Complete information includes:
+
+* Full name of the nominator 
+* Email address of the nominator
+* Full name of the nominee
+* Email address of the nominee
+* Justification why the person should be a member of the PSC. This can be just
+  a sentence or two in length.
+
+
+The PSC contacts the nominee to confirm their willingness to serve and their
+name is added to the list of nominees.  You must submit all the information in
+item 4 for the nomination to be accepted.
+
 Expectations of PSC members
 ---------------------------
 
@@ -77,6 +109,7 @@ The PSC is intended to:
 * Provide a stable base of 'institutional knowledge' to the project
 
 The PSC is not:
+---------------
 
 * A legal entity
 * Intended to deal with minutae of the project (these should be delegated to
