@@ -7,6 +7,7 @@ Welcome to QGIS Governance's Documentation
 .. toctree::
    :maxdepth: 2
 
+   organisation/index
    sponsorship/index
    developer-meetings/index
    
